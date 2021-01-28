@@ -1,8 +1,7 @@
 # stou mobile กิจกรรม 4 (ต่อยอด)
 ### ดูลิงก์ (youtube)[https://www.youtube.com/watch?v=rK-rlgUEkck]
-<img width="200" alt="portfolio_view" src="https://raw.githubusercontent.com/samiti3d/stou_mobile/main/hotelreview.jpg">
-![ภาพสกีน](https://raw.githubusercontent.com/samiti3d/stou_mobile/main/hotelreview.jpg)
 
+<img width="300" alt="portfolio_view" src="https://raw.githubusercontent.com/samiti3d/stou_mobile/main/hotelreview.jpg">
 
 ### จุดประสงค์
 
