@@ -1,5 +1,5 @@
 # stou_mobile
-![](https://alexdunndev.files.wordpress.com/2017/07/kotlin_tabs.png?w=1024&h=633&crop=1 | width=100)
+![](https://alexdunndev.files.wordpress.com/2017/07/kotlin_tabs.png?w=1024&h=633&crop=1)
 ### จุดประสงค์
 ใช่แล้ว! แต่คุณใช้ GetData() ก็พอต่อการนำไปส่งกิจกรรม
 
