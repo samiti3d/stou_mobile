@@ -1,4 +1,4 @@
-# stou mobile กิจกรรม 4 (ต่อยอด)
+# Stou Mobile กิจกรรม 4 (ต่อยอด)
 
 [ติดตามรีวิวได้ที่ช่อง Youtube: SamitiTv](https://www.youtube.com/watch?v=rK-rlgUEkck)
 
